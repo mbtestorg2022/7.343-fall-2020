@@ -67,18 +67,177 @@ The course will be graded as “pass” or “fail.” A student who attends eac
 Calendar
 --------
 
-| week # | topics | key dates |
-| --- | --- | --- |
-| 1 | Introduction to the Course | &nbsp; |
-| 2 | RiPPs (ribosomally synthesized and post-translationally modified peptides): Discovery via Culture/Manipulation of the Native Producer | &nbsp; |
-| 3 | RiPPs: Discovery via Genomics/Data-Driven Strategies | &nbsp; |
-| 4 | RiPPs: Biosynthesis and Enzyme Function/Mechanism | &nbsp; |
-| 5 | RiPPs: Engineering | &nbsp; |
-| 6 | Panel Discussion with Natural Product Professionals | &nbsp; |
-| 7 | NRPs (non-ribosomal peptide NPs): Discovery via Genomics/Data-Driven Strategies | Written assignment due |
-| 8 | NRPs: Biosynthesis and Enzyme Function/Mechanism | &nbsp; |
-| 9 | NRPs: Engineering | &nbsp; |
-| 10 | Plant NPs | &nbsp; |
-| 11 | Culture-Dependent and Metagenomic Methods of NP Discovery from Complex Environments | &nbsp; |
-| 12 | Applications of NPs in Combating Diseases | &nbsp; |
-| 13 | Student Presentations and Evaluation | Oral presentation due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+week #
+{{< thclose >}}
+{{< thopen >}}
+topics
+{{< thclose >}}
+{{< thopen >}}
+key dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Course
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+RiPPs (ribosomally synthesized and post-translationally modified peptides): Discovery via Culture/Manipulation of the Native Producer
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+RiPPs: Discovery via Genomics/Data-Driven Strategies
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+RiPPs: Biosynthesis and Enzyme Function/Mechanism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+RiPPs: Engineering
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Panel Discussion with Natural Product Professionals
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+NRPs (non-ribosomal peptide NPs): Discovery via Genomics/Data-Driven Strategies
+{{< tdclose >}}
+{{< tdopen >}}
+Written assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+NRPs: Biosynthesis and Enzyme Function/Mechanism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+NRPs: Engineering
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Plant NPs
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Culture-Dependent and Metagenomic Methods of NP Discovery from Complex Environments
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Applications of NPs in Combating Diseases
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations and Evaluation
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentation due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
