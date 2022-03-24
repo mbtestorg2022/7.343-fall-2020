@@ -168,7 +168,7 @@ NRPs (non-ribosomal peptide NPs): Discovery via Genomics/Data-Driven Strategies
 {{< tdopen >}}
 
 
-Yamanaka K., Reynolds K.A., Kerstena R.D., Ryana K.S., Gonzalez D.J., Nizete V., Dorrestein P.C., Moore B.S. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Direct Cloning and Refactoring of a Silent Lipopeptide Biosynthetic Gene Cluster Yields the Antibiotic Taromycin A (PDF)](https://www.pnas.org/content/pnas/111/5/1957.full.pdf). _Proc. Natl. Acad. Sci. U.S.A._, 2014, 111, 1957–1962.
+Yamanaka K., Reynolds K.A., Kerstena R.D., Ryana K.S., Gonzalez D.J., Nizete V., Dorrestein P.C., Moore B.S.  [Direct Cloning and Refactoring of a Silent Lipopeptide Biosynthetic Gene Cluster Yields the Antibiotic Taromycin A (PDF)](https://www.pnas.org/content/pnas/111/5/1957.full.pdf). _Proc. Natl. Acad. Sci. U.S.A._, 2014, 111, 1957–1962.
 
 Goering A.W., McClure R.A., Doroghazi J.R., Albright J.C., Haverland N.A., Zhang  Y., Ju K.-S., Thomson R.J., Metcalf W.W., Kelleher N.L. [Metabologenomics: Correlation of Microbial Gene Clusters with Metabolites Drives Discovery of a  Nonribosomal Peptide with an Unusual Amino Acid Monomer](https://pubs.acs.org/doi/10.1021/acscentsci.5b00331). _ACS Cent. Sci._ 2016, 2, 99–108.  
  
@@ -219,7 +219,7 @@ NRPs: Engineering
 
 Niquille D.L., Hansen D.A., Mori T., Fercher D., Kries H., Hilvert D. [Nonribosomal Biosynthesis of Backbone-Modified Peptides](https://www.nature.com/articles/nchem.2891). _Nat. Chem._ 2018, 10, 282–287.
 
-Awakawa T., Fujioka T., Zhang L., Hoshino S., Hu Z., Hashimoto J., Kozone I., Ikeda H., Shin-Ya K., Liu W., Abe I. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Reprogramming of the Antimycin NRPS-PKS Assembly Lines Inspired by Gene Evolution (PDF - 1.4MB)](https://www.nature.com/articles/s41467-018-05877-z.pdf). _Nat. Commun._ 2018, 9, 3534.
+Awakawa T., Fujioka T., Zhang L., Hoshino S., Hu Z., Hashimoto J., Kozone I., Ikeda H., Shin-Ya K., Liu W., Abe I.  [Reprogramming of the Antimycin NRPS-PKS Assembly Lines Inspired by Gene Evolution (PDF - 1.4MB)](https://www.nature.com/articles/s41467-018-05877-z.pdf). _Nat. Commun._ 2018, 9, 3534.
 
 
 {{< tdclose >}}
