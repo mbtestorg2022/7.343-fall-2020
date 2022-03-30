@@ -14,16 +14,16 @@ Prerequisites
 
 There are no absolute prerequisites, but some knowledge of genetics, biochemistry, and molecular biology is helpful. Ideally, candidates will have successfully taken at least one of the following classes:
 
-_[7.01 Introductory Biology](/courses/7-01sc-fundamentals-of-biology-fall-2011/)  
+_[7.01 Introductory Biology](/courses/7-01sc-fundamentals-of-biology-fall-2011)  
 _
 
-_[7.03 Genetics](/courses/7-03-genetics-fall-2004/)  
+_[7.03 Genetics](/courses/7-03-genetics-fall-2004)  
 _
 
 _7.05 General Biochemistry  
 _
 
-[_7.28 Molecular Biology_](/courses/7-28-molecular-biology-spring-2005/)
+[_7.28 Molecular Biology_](/courses/7-28-molecular-biology-spring-2005)
 
 Chemistry, Chemical Engineering, and Bioengineering students are also highly encouraged to attend even without any of the above prerequisites. Interested students uncertain if their academic coursework is sufficient for this seminar should contact the instructors.
 
